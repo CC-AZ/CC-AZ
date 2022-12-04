@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CC-AZ
-- 👀 I’m interested in XCode and Swift
-- 🌱 I’m currently learning XCode
-- 💞️ I’m looking to collaborate on an XCode App
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to explore Python scripts
 - 📫 How to reach me, Clayton@ClaytonCorey.com
 
 <!---
