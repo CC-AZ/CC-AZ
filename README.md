@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CC-AZ
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to explore Python scripts
-- 📫 How to reach me, Clayton@ClaytonCorey.com
+- 👋 Hi, I’m Clayton
 
 <!---
 CC-AZ/CC-AZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
